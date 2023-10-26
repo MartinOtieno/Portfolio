@@ -38,11 +38,11 @@ section{
     padding:1rem;
 }
 .btn{
-    padding: 0.5rem 0.5rem ;
+    padding: 0.5rem 0.5rem;
     background: #333;
     color: #fff;
     cursor: pointer;
-    margin-top: 1rem;
+    margin-top: 5rem;
     font-size: 2rem;
     border-radius: 5rem;
 }
@@ -205,6 +205,11 @@ header .navbar ul li a:hover{
 .about .row .counter .box h3{
     font-size: 2rem;
     color: #ffff;
+}
+h4{
+    font-size: 2rem;
+    color: #ffff;
+    padding: 20px 0 20px 0;
 }
 .education .box-container{
     margin-top: 6rem;
